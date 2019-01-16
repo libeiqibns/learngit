@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-git is good.
+Creating a new branch is quick & simple.
